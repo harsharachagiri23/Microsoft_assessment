@@ -47,6 +47,7 @@ def getMaximumThroughput(throughput: list[int], scalingCost: list[int], budget: 
     # budget: available money
     # Returns: the maximum possible final throughput
     pass
+```
 
 # Sample data 
 
